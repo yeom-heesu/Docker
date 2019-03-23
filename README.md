@@ -21,3 +21,9 @@ docker는 컨테이너와 이미지로 구성되어 있다.
 이미지 관리는 [Docker hub](https://hub.docker.com/) 혹은 [Docker Registry](https://docs.docker.com/registry/)에서 할수있다.
 
 --------------
+## Docker 설치하기
+1. 리눅스에 아래의 명령어를 입력하면 root권한을 입력하고 설치가 완료된다.
+```
+curl -fs https://get.docker.com/ | sudo sh
+```
+2. 맥이나 윈도우즈에 설치하려면 [Docker for mac](https://docs.docker.com/docker-for-mac/) 또는 [Docker for windows](https://docs.docker.com/docker-for-windows/)를 설치하여야 한다.
