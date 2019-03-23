@@ -18,6 +18,6 @@ docker는 컨테이너와 이미지로 구성되어 있다.
 
 컨테이너는 이미지를 실행한 상태와 추가 및 변경값을 컨테이너에 저장한다.
 
-이미지 관리는 Docker hub 혹은 Docker Registry에서 할수있다.
+이미지 관리는 [Docker hub](https://hub.docker.com/) 혹은 [Docker Registry](https://docs.docker.com/registry/)에서 할수있다.
 
 --------------
